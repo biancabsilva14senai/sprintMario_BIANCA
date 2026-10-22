@@ -17,7 +17,7 @@ try {
 ?>
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>$
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -42,8 +42,8 @@ try {
 
         
         <main class="game-board" id="game-board">
-            <img src="assets/nuvens.jpg" class="nuvenss" alt="Nuvens">
-            <img src="assets/gif.jpg" class="gato" alt="Gato">
+            <img src="assets/nuvens.png" class="nuvens" alt="Nuvens">
+            <img src="assets/gato.gif" class="gato" alt="Gato">
             <img src="assets/bolo.png" class="bolo" alt="Bolo">
             <span class="jump-tip" id="jump-tip">Pressione ESPAÇO ou clique para pular</span>
         </main>
